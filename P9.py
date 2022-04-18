@@ -4,7 +4,6 @@
 #              by inheriting Student class. The Exam class adds fields representing the marks
 #              scored in six subjects. Derive Result from the Exam class, and it has its own
 #              fields such as total_marks. Write an interactive program to model this relationship.
-# link(Github):https://github.com/MitrenKadiwala/Programming-In-Python/tree/main/Programming-In-Python-main
 
 class Student:
     def __init__(self, rollNo, name):
